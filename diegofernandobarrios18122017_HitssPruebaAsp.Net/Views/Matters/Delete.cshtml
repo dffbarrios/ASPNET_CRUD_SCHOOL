@@ -1,0 +1,41 @@
+﻿@model diegofernandobarrios18122017_HitssPruebaAsp.Net.Models.Matter
+@{
+    ViewBag.Title = "Materias";
+    ViewBag.Module = "Modulo Materias";
+    ViewBag.Message = "Eliminar Materia";
+}
+<h4 class="text-danger">¿Estas seguro de quieres eliminar la materia?</h4>
+<div>
+    <h4>Detalles</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Grade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Grade)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Ir al Inicio", "Index")
+        </div>
+    }
+</div>

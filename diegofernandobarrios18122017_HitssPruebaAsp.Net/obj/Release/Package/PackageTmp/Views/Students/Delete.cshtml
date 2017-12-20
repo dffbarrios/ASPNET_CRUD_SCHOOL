@@ -1,0 +1,57 @@
+﻿@model diegofernandobarrios18122017_HitssPruebaAsp.Net.Models.Student
+@{
+    ViewBag.Title = "Estudiantes";
+    ViewBag.Module = "Modulo Estudiantes";
+    ViewBag.Message = "Eliminar Estudiante";
+}
+<div>
+    <h4>¿Estas seguro de eliminar este estudiante?</h4>
+    <h4>Estudiante</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DocumentType)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DocumentType)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdDocument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdDocument)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lastname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Regresar al Inicio", "Index")
+        </div>
+    }
+</div>

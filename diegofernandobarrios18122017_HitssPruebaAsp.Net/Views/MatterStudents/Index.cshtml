@@ -1,0 +1,79 @@
+﻿@model IEnumerable<diegofernandobarrios18122017_HitssPruebaAsp.Net.Models.MatterStudent>
+@{
+    ViewBag.Title = "Matriculas";
+    ViewBag.Module = "Modulo de Matriculas";
+    ViewBag.Message = "Bienvenido";
+}
+<p>
+    @Html.ActionLink("Registrar Nota", "Create")
+</p>
+<table class="table table-hover" id="data-table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdStudent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMatter)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoteOne)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoteTwo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdStudent)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdMatter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoteOne)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoteTwo)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new {  IdMatter=item.IdMatter, IdStudent = item.IdStudent }) |
+                @Html.ActionLink("Eliminar", "Delete", new { IdMatter = item.IdMatter, IdStudent = item.IdStudent })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+@section Scripts{
+    <link type="text/css" rel="stylesheet" href="~/Scripts/datatables.min.css"  />
+    <script type="text/javascript" src="~/Scripts/datatables.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var $table = jQuery('#data-table');
+
+            var $table = $table.DataTable();
+
+            $('#data-table tfoot th').each(function () {
+                var title = $('#data-table thead th').eq($(this).index()).text();
+                $(this).html('<input type="text" class="form-control" placeholder="Buscar ' + title + '" />');
+            });
+            
+            $table.columns().every(function () {
+                var that = this;
+
+                $('input', this.footer()).on('keyup change', function () {
+                    if (that.search() !== this.value) {
+                        that
+                            .search(this.value)
+                            .draw();
+                    }
+                });
+            });
+        });
+    </script>
+}

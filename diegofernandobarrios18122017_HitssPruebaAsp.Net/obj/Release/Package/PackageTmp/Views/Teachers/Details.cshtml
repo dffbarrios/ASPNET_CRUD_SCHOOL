@@ -1,0 +1,60 @@
+﻿@model diegofernandobarrios18122017_HitssPruebaAsp.Net.Models.Teacher
+@{
+    ViewBag.Title = "Docente";
+}
+<h2>Modulo de Docentes</h2>
+<h5>Detalles Docente</h5>
+
+<div>
+    <h4>Docente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TypeDocument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TypeDocument)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdDocument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdDocument)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lastname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Profession)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Profession)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Postgrade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Postgrade)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Regresar al Inicio", "Index")
+</p>

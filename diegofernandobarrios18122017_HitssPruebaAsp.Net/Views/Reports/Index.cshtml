@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Reportes";
+    ViewBag.Module = "Modulo de Reportes";
+    ViewBag.Message = "Bienvenido";
+}
+<h4>Seleccione una Operacion</h4>
+<button id="teacher-report" class="btn btn-primary">Reporte Docentes</button>
+<button id="general-report" class="btn btn-primary">Reporte General</button>
+
+<br/>
+<div id="report"></div>
+@section Scripts{
+    <script type="text/javascript" src="~/Scripts/sweetalert2.all.js"></script>
+    <script type="text/javascript">
+        var url = null;
+        $("#teacher-report").click(function () {
+            url = "teacher-report";
+            reload(url);
+        });
+
+        $("#general-report").click(function () {
+            swal(
+                '¡Error!',
+                'No se implemento la lógica de este reporte',
+                'error'
+            );
+        });
+
+        function reload(url) {
+            $.ajax({
+                url: '@Url.Action("TeacherReport","Reports")',
+                success: function (result) {
+                    $("#report").html(result);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    swal(
+                        '¡Error!',
+                        'No se pudo generar reporte',
+                        'error'
+                    );
+                }
+            });
+        }
+    </script>        
+}
+
+

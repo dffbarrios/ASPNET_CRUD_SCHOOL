@@ -1,0 +1,106 @@
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\ApplicationInsights.config
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\diegofernandobarrios18122017_HitssPruebaAsp.Net.dll.config
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\diegofernandobarrios18122017_HitssPruebaAsp.Net.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\diegofernandobarrios18122017_HitssPruebaAsp.Net.pdb
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Antlr3.Runtime.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.Web.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Newtonsoft.Json.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Helpers.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Mvc.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Optimization.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Razor.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Razor.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\WebGrease.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Helpers.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Mvc.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Optimization.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Razor.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Razor.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Antlr3.Runtime.pdb
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Newtonsoft.Json.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.Web.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Helpers.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Mvc.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Optimization.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Razor.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.WebPages.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.csproj.CoreCompileInputs.cache
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.pdb
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.SqlServer.dll
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.xml
+C:\Users\dbarrios\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.SqlServer.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\ApplicationInsights.config
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\diegofernandobarrios18122017_HitssPruebaAsp.Net.dll.config
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\diegofernandobarrios18122017_HitssPruebaAsp.Net.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\diegofernandobarrios18122017_HitssPruebaAsp.Net.pdb
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Antlr3.Runtime.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.SqlServer.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.Web.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Newtonsoft.Json.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Helpers.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Mvc.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Optimization.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Razor.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\WebGrease.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\EntityFramework.SqlServer.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Helpers.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Mvc.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Optimization.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.Razor.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Antlr3.Runtime.pdb
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Newtonsoft.Json.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Microsoft.AI.Web.xml
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.Razor.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.csproj.CoreCompileInputs.cache
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.dll
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.pdb
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\obj\Debug\diegofernandobarrios18122017_HitssPruebaAsp.Net.csprojResolveAssemblyReference.cache
+C:\Users\Diego SNP3004EX\source\repos\HitssPruebaAsp.Net\diegofernandobarrios18122017_HitssPruebaAsp.Net\bin\Rotativa.dll

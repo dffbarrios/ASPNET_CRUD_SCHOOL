@@ -1,0 +1,59 @@
+﻿@model diegofernandobarrios18122017_HitssPruebaAsp.Net.Models.MatterStudent
+@{
+    ViewBag.Title = "Matriculas";
+    ViewBag.Module = "Modulo de Matriculas";
+    ViewBag.Message = "Bienvenido";
+}
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Calificaciones</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.IdMatter, "IdMatter", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("IdMatter", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.IdMatter, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.IdStudent, "IdStudent", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("IdStudent", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.IdStudent, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NoteOne, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NoteOne, new { htmlAttributes = new { @class = "form-control", @value="0", @readonly = "readonly" } })
+            @Html.ValidationMessageFor(model => model.NoteOne, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NoteTwo, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NoteTwo, new { htmlAttributes = new { @class = "form-control", @value = "0", @readonly = "readonly" } })
+            @Html.ValidationMessageFor(model => model.NoteTwo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Matricular" class="btn btn-primary" />
+        </div>
+    </div>
+</div>
+}
+<div>
+    @Html.ActionLink("Regresar al Inicio", "Index")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

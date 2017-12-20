@@ -1,0 +1,58 @@
+﻿@model diegofernandobarrios18122017_HitssPruebaAsp.Net.Models.Teacher
+@{
+    ViewBag.Title = "Materias";
+    ViewBag.Module = "Modulo Docentes";
+    ViewBag.Message = "Eliminar registro docente";
+}
+<h4 class="text-danger font-Ubuntu">¿Estas seguro de querer eliminar el registro docente?</h4>
+<div>
+    <h4>Docente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdDocument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdDocument)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TypeDocument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TypeDocument)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lastname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Profession)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Profession)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Postgrade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Postgrade)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Regresar al Inicio", "Index")
+        </div>
+    }
+</div>

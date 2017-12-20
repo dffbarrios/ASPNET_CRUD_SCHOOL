@@ -1,0 +1,28 @@
+﻿* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src:url('ubuntu/Ubuntu-L.ttf');
+}
+
+.container-body{
+    margin-top: 5%;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+h5 {
+    font-style: italic;
+}
+
+.spacer {
+    margin-top: 5%;
+}
+
+.font-Ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
